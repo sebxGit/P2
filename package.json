@@ -1,0 +1,28 @@
+{
+  "name": "P2",
+  "version": "1.0.0",
+  "description": "This is the P2 project of group [INSERT GROUP NAME]. The project started on February first and ended on [INSERT DATE].",
+  "main": "express.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akvariet/P2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akvariet/P2/issues"
+  },
+  "homepage": "https://github.com/Akvariet/P2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
